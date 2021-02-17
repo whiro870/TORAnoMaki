@@ -23,4 +23,18 @@ $ git config --global user.email mail@address.com
 プライベートだと招待した人しか見れない
 そしてリポジトリ単位でしか変更できない
 
+# コマンド
+
+## ファイル名の変更
+$ git mv 元ファイル 先ファイル
+## コミット（ローカルでやるやつ）
+$ git commit -m ”コミットコメント"
+## プッシュ（本体に登録するやつ）
+$ git push
+
+みんなこのあたりに書いてある。
+https://qiita.com/2m1tsu3/items/6d49374230afab251337
+
+
+
 
