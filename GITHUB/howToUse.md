@@ -27,6 +27,9 @@ $ git config --global user.email mail@address.com
 
 ## ファイル名の変更
 $ git mv 元ファイル 先ファイル
+
+## コミット対象にするやつ
+$ git add howToUse.md
 ## コミット（ローカルでやるやつ）
 $ git commit -m ”コミットコメント"
 ## プッシュ（本体に登録するやつ）
