@@ -39,5 +39,13 @@ $ git push
 https://qiita.com/2m1tsu3/items/6d49374230afab251337
 
 
+# .mdファイル
+- マークダウンでの書き方について調べたい。
+
+# github desktop? gitbash?
+- こいつら共存できるのか？
+-- gitbashでcloneしたところを指定しようとしたら空っぽじゃないとcloneさせてやらんって怒られた。
+
+
 
 
